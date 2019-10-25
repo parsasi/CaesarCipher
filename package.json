@@ -1,0 +1,25 @@
+{
+  "name": "ceasarcipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parsasi/ceasarcipher.git"
+  },
+  "keywords": [
+    "CeasarCipher",
+    "Ceasar",
+    "Cipher",
+    "Encryption"
+  ],
+  "author": "Parsa Safavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parsasi/ceasarcipher/issues"
+  },
+  "homepage": "https://github.com/parsasi/ceasarcipher#readme"
+}
