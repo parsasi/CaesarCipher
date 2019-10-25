@@ -1,4 +1,4 @@
-class CeasarCipher{
+class CaesarCipher{
     constructor(){
         //All the acceptable characters
         //Methods dynamically interact with the array
