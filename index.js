@@ -1,4 +1,4 @@
-class CeaserCipher{
+class CeasarCipher{
     constructor(){
         //All the acceptable characters
         //Methods dynamically interact with the array
@@ -64,3 +64,5 @@ class CeaserCipher{
         return foundChar;
     }
 }
+
+module.exports = CaesarCipher;
